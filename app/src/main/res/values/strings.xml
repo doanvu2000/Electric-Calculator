@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Electric</string>
+    <string name="txt_electric_calculator">Máy tính điện</string>
+    <string name="txt_u">Hiệu điện thế - U (Vôn - V)</string>
+    <string name="txt_i">Cường độ d.điện - I (Ampe - A)</string>
+    <string name="txt_r">Điện trở - R (Ôm)</string>
+    <string name="txt_p">Công suất - P (W)</string>
+    <string name="txt_error_input">Dữ liệu đầu vào không hợp lệ</string>
+</resources>

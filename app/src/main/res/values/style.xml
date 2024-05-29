@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="fontPoppins400" parent="Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/poppins_regular_400</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="fontPoppins500" parent="Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/poppins_medium_500</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="fontPoppins600" parent="Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/poppins_semi_bold_600</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="fontPoppins700" parent="Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/poppins_bold_700</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+</resources>
